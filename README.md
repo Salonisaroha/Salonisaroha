@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonisaroha" alt="salonisaroha" /></a> </p>
 
-- 🔭 I’m currently working on **REST API's using Gin-gonic framework**
+- 🔭 I’m currently working on **REST APIs using Express.js**
 
-- 🌱 I’m currently learning **Golang, Golang REST API, JWT**
+- 🌱 I have experience with **Node.js, MongoDB, JWT, and Socket.io**
 
 - 👯 I’m looking to collaborate on **open source code for good.**
 
